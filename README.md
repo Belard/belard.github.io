@@ -117,6 +117,6 @@ Instituto Superior de Engenharia do Porto
 
 ---
 
-## 📂 Next Step
+## 📂 Personal Projects
 
-👉 Check my projects below (this is where the real proof is)
+👉 Check my projects below (work in progress)
