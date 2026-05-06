@@ -119,4 +119,13 @@ Instituto Superior de Engenharia do Porto
 
 ## 📂 Personal Projects
 
-👉 Check my projects below (work in progress)
+### MTSLib — Task Scheduler & Task Queue System
+A C++ task scheduling and queueing library focused on reliable background execution, concurrency, and scalable task processing.
+
+- Task scheduling and delayed execution
+- Worker-based task processing
+- Retry and failure handling
+- Queue management and task lifecycle tracking
+- Focus on modularity, scalability, and performance
+
+👉 https://github.com/Belard/MTSLib
